@@ -1,0 +1,137 @@
+h1,h2,h3{
+  font-width:900;
+  font-family: 'Poppins',sans-serif;
+  text-transform: capitalize;
+  line-height: 1.2;
+  letter-spacing: -2.0px;
+  font-size: 30px;
+  text-align: center;
+  color:#212529;
+}
+h3{
+  letter-spacing: -1.0px;
+  font-size: 20px;
+}
+h2{
+  color:#212529;
+  font-size: 25px;
+}
+.cta{
+  text-align: center;
+}
+p,a,h6{
+  font-width:300;
+  font-family: 'Poppins',sans-serif;
+  font-size: 5px;
+  line-height: 1.5;
+  text-align: left;
+  color:#495057;
+}
+h2{
+  color:black;
+}
+
+a{
+  text-decoration: none;
+  font-size:13px;
+  
+}
+ul{
+  list-style: none;
+  text-align: center;
+}
+h6{
+  text-align: center;
+}
+.btn{
+  font-width:400;
+  font-family:'Poppins',sans-serif;
+  text-align: center;
+  text-decoration: none;
+  padding:10px 25px;
+}
+
+.btn-primary:link,.btn-primary:visited{
+  background-color:#339af0;
+  border:2px solid #339af0;
+  border-radius: 10px;
+  color:white;
+}
+.btn-primary:hover,.btn-primary:active{
+  color:#339af0;
+  background-color: white;
+  border:2px solid #339af0;
+  border-radius: 10px;
+}
+.btn-ternary:link,.btn-ternary:visited{
+  background-color:#6741d9;
+  border:2px solid #6741d9;
+  border-radius: 10px;
+  color:white;
+}
+.btn-ternary:hover,.btn-ternary:active{
+  background-color:white;
+  border:2px solid #339af0;
+  border-radius: 10px;
+  color:#6741d9;
+}
+.btn-outline:link,.btn-outline:visited{
+  background-color:white;
+  border:2px solid #339af0;
+  border-radius: 10px;
+  padding:10px 25px;
+  color:black;
+}
+
+.btn-outline:hover,btn-outline:active{
+  background-color:white;
+  color:black;
+  border:2px solid #339af0;
+  border-radius: 10px;
+}
+.about-social-icon:hover{
+  color:red;
+}
+.small-text h6{
+  color:#212529;
+  text-align: center;
+}
+.cta{
+  text-align: center;
+  height: 150px;
+}
+.cta-card{
+  background-color:#0476D0;
+  padding:20px 15px;
+  border:5px solid #0476D0;
+  
+}
+.logo-nd{
+  width:100px;
+}
+.logo-xd{
+  width:200px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  margin:10px;
+}
+.list li{
+  width: 50%;
+}
+.reg-form{
+  text-align: center;
+}
+.register-form{
+  background-color: #339af0;
+  text-align:center;
+  border:5px solod #339af0;
+  border-radius: 50px;
+}
+.input-btn{
+  padding:10px 20px;
+  border: 5px solid #339af0;
+  border-radius: 50px;
+}
